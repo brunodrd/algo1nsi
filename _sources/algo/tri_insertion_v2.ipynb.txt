@@ -20,6 +20,8 @@
     "\n",
     "```{image} ../img/tri_insertion_principe.png\n",
     "alt: principe\n",
+    "height: 297 px\n",
+    "width: 527 px\n",
     "```"
    ]
   },
